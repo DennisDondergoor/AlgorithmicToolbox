@@ -1,4 +1,3 @@
-# Uses python3
 import sys
 
 inp = sys.stdin.read()

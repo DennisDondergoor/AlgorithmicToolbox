@@ -1,7 +1,3 @@
-# Uses python3
-import sys
-
-
 def gcd_fast(a, b):
     if b == 0:
         return a

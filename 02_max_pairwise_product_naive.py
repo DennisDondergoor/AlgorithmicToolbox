@@ -1,6 +1,3 @@
-# Uses python3
-
-
 def max_pairwise_product_naive(numbers):
     n = len(numbers)
     max_product = 0
